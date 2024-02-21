@@ -239,7 +239,7 @@ logging.debug(type(data)) #<class 'list'>
 logging.debug(type(data[i])) #<class 'dict'>
 '''
 def abrir_lectura():
-    lectura=open("ES0031104616159079EA0F_3346701-01-2023_01-01-2024.json", "r", encoding="utf-8")
+    lectura=open("ES334433RRTYERW07NMLL3_3346701-01-2023_01-01-2024.json", "r", encoding="utf-8")
     data = json.load(lectura)
     lectura.close()
     return data
