@@ -1,0 +1,1 @@
+[{"cif": "CIFLECTUR", "distributorCode": "2"}, {"cif": "CIFNUMER2", "distributorCode": "2"}]
